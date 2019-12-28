@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+
+.main{
+    overflow: hidden;
+}
+
+.bg-img {
+    
+    background-image: url('/assets/img/IMG_20190119_090751.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    opacity: 0.9;
+  }
+
+
+  
